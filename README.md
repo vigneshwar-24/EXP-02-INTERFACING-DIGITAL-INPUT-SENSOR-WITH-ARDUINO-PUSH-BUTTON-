@@ -45,9 +45,13 @@ FIGURE-02
 # PROCEDURE :
  Open tinker cad account 
 1.Select Arduino uno , bread board , digital input and digital output 
+
 2.Connect the circuit as given in the figure 
+
 3.Develop the program and compile it for any errors 
+
 4.Execute the program 
+
 5.Check the simulation 
 
 
@@ -64,9 +68,7 @@ FIGURE -03
 
 
 
-
-
-#PROGRAM 
+# PROGRAM 
  
  ```c
  
