@@ -101,7 +101,8 @@ void loop()
 
 # Output of the simulation :
 
-[My image](username.github.com/repository/img/image.jpg)
+![1](https://user-images.githubusercontent.com/77089276/166477089-54b4f596-111c-46b1-a1c7-95570f334fe7.png)
+
 
 # Result:
 
